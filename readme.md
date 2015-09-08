@@ -1,4 +1,4 @@
-Changes.js is a helper method designed to solve a recurring pattern often seen when testing for difference between states in React.
+Changes.js is a helper method designed to solve a recurring pattern often seen when testing for difference between states in [React](https://facebook.github.io/react/).
 
 ## Description
 
