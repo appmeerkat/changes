@@ -26,7 +26,7 @@ return diff.attr1 &&
 ## Reference
 
 ```js
-changes(nextProps.something, this.props.something[, key1[, key2, [ … ]]])`
+changes(nextProps.something, this.props.something[, key1[, key2[, … ]]])
 ```
 
 For any one key passed, the method will return:
