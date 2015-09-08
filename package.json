@@ -1,0 +1,21 @@
+{
+  "name": "changes",
+  "version": "0.1.0",
+  "description": "A helper method for simplifying differences testing between objects",
+  "main": "src/changes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "author": "Amir Grozki",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.7.5",
+    "invariant": "^2.1.0"
+  },
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.0.1",
+    "es6ify": "^1.6.0"
+  }
+}
